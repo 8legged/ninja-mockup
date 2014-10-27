@@ -7,9 +7,11 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
 }
-
 .works {
-display: -webkit-flex;
-display: flex;
+    display: -webkit-flex;
+    display: flex;
 }
-
+img {
+    max-width: 100%;
+}
+main {}
